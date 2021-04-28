@@ -14,6 +14,7 @@ Entity::Entity(JsonEntityBuilder & builder, JsonItemBuilder & inventory, uint32_
     _intelligence = _builder.intelligence;
     _agility = _builder.agility;
     _wisdom = _builder.wisdom;
+
     _class = _builder.Class;
 
     _inventory.Init(inventory, _builder.inventoryIDs);
@@ -159,6 +160,10 @@ uint32_t Entity::GetWisdom() const
     return _wisdom;
 }
 
+uint32_t Entity::GetSurvival() const 
+{
+    return _survival; 
+}
 uint32_t Entity::UID() const
 {
     return _uid;
