@@ -17,7 +17,7 @@ Creating a new hero class involves unique attacks. A few ideas for a new class
   - modified main to include barbarian.hpp and creation of barbarian entity 
   in the encounter
 
-  LINES 133-141, 225-235 ARE EDITED!
+  LINES 133-141, 225-235 of database.json ARE EDITED!
 
  update 04/28/21 
  - made input 6 text file, fixed the barbarian.cpp and .hpp files, modified database.json to inlcude the barbarian character. Tweaking the barbarian class attack stats and the input file. 
