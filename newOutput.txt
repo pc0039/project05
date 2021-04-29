@@ -1,0 +1,175 @@
+""Testing Barbarian Class""
+""First Attempt: Copying input 5, replacing the warrior""
+Uniden the mage has entered the battle
+Elva the rogue has entered the battle
+Bad Goblin 1 the monster has entered the battle
+Healer McMedic the priest has entered the battle
+Great Goblin the monster has entered the battle
+Hobgoblin the monster has entered the battle
+Grognak the barbarian had entered the battle
+Goblin: Hobgoblin
+	Current HP: 25
+	HIDDEN INVENTORY
+--------------------------------
+Goblin: Great Goblin
+	Current HP: 75
+	HIDDEN INVENTORY
+--------------------------------
+Priest: Healer McMedic
+	Current HP: 9
+	Wisdom: 16
+--------------------------------
+Mage: Uniden
+	Current HP: 5
+	Intelligence: 17
+--------------------------------
+Rogue: Elva
+	Current HP: 7
+	Agility: 17
+--------------------------------
+Goblin: Bad Goblin 1
+	Current HP: 6
+	HIDDEN INVENTORY
+--------------------------------
+Barbarian: Grognak
+	Current HP: 13
+	Strength: 17
+[Treecapitator]: 
+	Type : battleaxe
+	Armor: 0
+	Damage: 22
+
+[Leather Shield]: 
+	Type : shield
+	Armor: 15
+	Damage: 0
+
+Hobgoblin uses WeaponAttack on target Grognak dealing 6 damage.
+Great Goblin uses WeaponAttack on target Healer McMedic dealing 4 damage.
+Grognak uses Rage on target Hobgoblin dealing 17 damage.
+Healer McMedic uses Greater Heal on target Grognak healing for 32
+Elva uses Blindside on target Hobgoblin dealing 20 damage.
+Hobgoblin dies
+Goblin: Great Goblin
+	Current HP: 75
+	HIDDEN INVENTORY
+--------------------------------
+Priest: Healer McMedic
+	Current HP: 5
+	Wisdom: 16
+--------------------------------
+Mage: Uniden
+	Current HP: 5
+	Intelligence: 17
+--------------------------------
+Rogue: Elva
+	Current HP: 7
+	Agility: 17
+[Sword of a Thousand Truths]: 
+	Type : sword
+	Armor: 0
+	Damage: 20
+
+[Nameless Chest Armor]: 
+	Type : chest
+	Armor: 10
+	Damage: 0
+
+[Duskblade of Draktharr]: 
+	Type : sword
+	Armor: 0
+	Damage: 14
+
+[Riftmaker]: 
+	Type : staff
+	Armor: 0
+	Damage: 4
+
+--------------------------------
+Goblin: Bad Goblin 1
+	Current HP: 6
+	HIDDEN INVENTORY
+--------------------------------
+Barbarian: Grognak
+	Current HP: 13
+	Strength: 17
+[Treecapitator]: 
+	Type : battleaxe
+	Armor: 0
+	Damage: 22
+
+[Leather Shield]: 
+	Type : shield
+	Armor: 15
+	Damage: 0
+
+Grognak uses Flurry on target Great Goblin dealing 8 damage.
+Grognak uses Flurry on target Great Goblin dealing 8 damage.
+Elva uses Backstab on target Great Goblin dealing 34 damage.
+Great Goblin uses WeaponAttack on target Grognak dealing 4 damage.
+Uniden uses Magic Missile on target Great Goblin dealing 8 damage.
+Uniden uses Magic Missile on target Great Goblin dealing 8 damage.
+Uniden uses Magic Missile on target Great Goblin dealing 8 damage.
+Uniden uses Fireball on target Great Goblin dealing 25 damage.
+Great Goblin dies
+Priest: Healer McMedic
+	Current HP: 5
+	Wisdom: 16
+--------------------------------
+Mage: Uniden
+	Current HP: 5
+	Intelligence: 17
+[Nameless Chest Armor]: 
+	Type : chest
+	Armor: 10
+	Damage: 0
+
+[aghanim's scepter]: 
+	Type : staff
+	Armor: 0
+	Damage: 4
+
+--------------------------------
+Rogue: Elva
+	Current HP: 7
+	Agility: 17
+[Sword of a Thousand Truths]: 
+	Type : sword
+	Armor: 0
+	Damage: 20
+
+[Nameless Chest Armor]: 
+	Type : chest
+	Armor: 10
+	Damage: 0
+
+[Duskblade of Draktharr]: 
+	Type : sword
+	Armor: 0
+	Damage: 14
+
+[Riftmaker]: 
+	Type : staff
+	Armor: 0
+	Damage: 4
+
+--------------------------------
+Goblin: Bad Goblin 1
+	Current HP: 6
+	HIDDEN INVENTORY
+--------------------------------
+Barbarian: Grognak
+	Current HP: 9
+	Strength: 17
+[Treecapitator]: 
+	Type : battleaxe
+	Armor: 0
+	Damage: 22
+
+[Leather Shield]: 
+	Type : shield
+	Armor: 15
+	Damage: 0
+
+""**********************************""
+""**********************************""
