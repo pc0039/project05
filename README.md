@@ -10,3 +10,14 @@ Creating a new hero class involves unique attacks. A few ideas for a new class
   An offence class that specializes in ranged attacks. Has a specialized ranged attack that can attack twice in one turn, a generic melee attack, and a spell. Inventory includes a Bow and Arrows, a melee weapon. Ranged attack uses skill of agility.
 
   The class I'm most likely going to implement is Barbarian, which doesn't require creating a new skill or using multiple skills.
+
+  update 04/27/21
+  - implemented barbarian.hpp & barbarian.cpp, attack names and effects
+  subject to change
+  - modified main to include barbarian.hpp and creation of barbarian entity 
+  in the encounter
+
+  LINES 133-141, 225-235 ARE EDITED!
+
+ update 04/28/21 
+ - made input 6 text file, fixed the barbarian.cpp and .hpp files, modified database.json to inlcude the barbarian character. Tweaking the barbarian class attack stats and the input file. 
